@@ -1,6 +1,6 @@
 # Memory-Game-Storyline
 
-<a href="https://itsdani.me/portfolio/sl/memorygame/story.html">Live Demo</a>
+<a href="https://itsdani.me/sl/memorygame/story.html">Live Demo</a>
 
 This is a game created in Articulate Storyline 3. It is a simple memory game where you try to find matching pairs, only in this case the pairs are not identical - you are instead matching flute fingerings to their equivalent notes on the treble clef.
 
