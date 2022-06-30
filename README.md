@@ -1,6 +1,6 @@
 # Memory Game
 
-💻 [Live Site Demo](https://itsdani.me/sl/memorygame/story.html)
+💻 [Live Site Demo](https://souperstition.github.io/Memory-Game-Storyline/)
 
 ## :bookmark_tabs: Table of Contents
 
